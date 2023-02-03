@@ -1,4 +1,6 @@
-  [![Mo-Greene's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Greene)](https://github.com/anuraghazra/github-readme-stats)
+![Mo-Greene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Greene&show_icons=true&theme=cobalt)
+
+  
 
 
 <!--
