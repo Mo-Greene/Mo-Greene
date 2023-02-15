@@ -1,6 +1,6 @@
 ### 👋 Welcome to Mo-Greene's GitHub 💋
 - ✅ Backend Developer
-- ✅ Learned : Java, Spring, SpringBoot
+- ✅ Learned : Java, Spring, SpringBoot, JSP & Servlet
 
 
 ### 🖥️ Info
