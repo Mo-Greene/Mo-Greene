@@ -4,7 +4,7 @@
 
 
 ### 🖥️ Info
-<a href="https://github.com/Mo-Greene"><img style="height:140px" src="https://github-readme-stats.vercel.app/api?username=Mo-Greene&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="Mo-Greene's github stats" /></a>
+<a href="https://github.com/Mo-Greene"><img style="height:140px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mo-Greene&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="Mo-Greene's github stats" /></a>
 <a href="https://opgc.me/#/users/mo-greene" target="_blank"><img style="height:140px; width:330px" src="https://api.opgc.me/githubs/users/mo-greene/tag/?theme=basic" /></a>
 
 ### ✨ Languages and Tools
