@@ -3,8 +3,8 @@
 - ✅ Learned : Java, Spring, SpringBoot, JSP & Servlet
 
 ### Notice
-- 📂 https://mo-greene.tistory.com/
-- 📩 13blueboy13@naver.com
+- 📂 [Blog](https://mo-greene.tistory.com)
+- 📩 [Email](13blueboy13@naver.com)
 
 ### 🖥️ Info
 <a href="https://github.com/Mo-Greene"><img style="height:140px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mo-Greene&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="Mo-Greene's github stats" /></a>
