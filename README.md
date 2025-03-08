@@ -3,7 +3,6 @@
 - ✅ Learned : Java, Spring, SpringBoot, JSP & Servlet
 
 ### Notice
-- 📂 [Blog](https://mo-greene.pro)
 - 📩 [Email](13blueboy13@naver.com)
 
 ### 🖥️ Info
