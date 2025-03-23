@@ -4,6 +4,7 @@
 
 ### Notice
 - 📩 [Email](13blueboy13@naver.com)
+- 🧠 [Blog](https://mo-greene.github.io)
 
 ### 🖥️ Info
 <a href="https://github.com/Mo-Greene"><img style="height:140px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mo-Greene&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="Mo-Greene's github stats" /></a>
